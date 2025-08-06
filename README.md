@@ -1,3 +1,8 @@
+Uploaded on OnRender 
+sServer is running on port 5000 and 
+Successfully connected to the database
+
+
 # School Management API
 
 A RESTful API for managing schools with proximity-based search functionality.
